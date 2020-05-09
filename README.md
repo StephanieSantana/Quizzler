@@ -1,2 +1,2 @@
-# SwiftBootcamp
-iOS 13 with Swift 5 bootcamp
+# Quizzler multiple choice app
+iOS App following MVC design pattern in Swift 5
